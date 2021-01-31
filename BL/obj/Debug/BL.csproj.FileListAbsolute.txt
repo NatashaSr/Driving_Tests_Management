@@ -1,0 +1,80 @@
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DS.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\BL\obj\Debug\BL.pdb

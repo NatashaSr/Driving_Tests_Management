@@ -1,0 +1,57 @@
+﻿<Window x:Class="PLWPF.optionsToTester"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="optionsToTester" Height="200" Width="500">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="backgroundColor">
+            <GradientStop Color="AliceBlue"
+                    Offset="0" />
+            <GradientStop Color="#FFCAE3F9"
+                    Offset="0.5" />
+            <GradientStop Color="AliceBlue"
+                    Offset="1" />
+        </LinearGradientBrush>
+
+        <Style TargetType="Button" x:Key="buttonsRight" >
+            <Setter Property="Background" Value="{x:Null}"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontFamily" Value="Segoe UI Black"/>
+            <Setter Property="BorderBrush" Value="Blue"/>
+            <Setter Property="BorderThickness" Value="3"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Width" Value="125"/>
+            <Setter Property="Height" Value="95"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80*"/>
+            <RowDefinition Height="20*"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="FirstGrid" Background="{StaticResource backgroundColor}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock x:Name="textBlockID" Text="{Binding _ID,Mode=OneTime}" HorizontalAlignment="Left" Height="16" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontSize="10" FontFamily="Segoe UI Black" Margin="5,0,0,0"/>
+
+            <Button x:Name="buttonRemoveTester" Content="מחיקת בוחן"  Style="{StaticResource buttonsRight}" Click="ButtonRemoveTester_Click"/>
+            <Button x:Name="buttonUpdateTest" Content="עדכון מבחן" Grid.Column="1" Style="{StaticResource buttonsRight}" Click="ButtonUpdateTest_Click"  />
+            <Button x:Name="buttonUpdateTester" Content="עדכון פרטים" Grid.Column="2"  Style="{StaticResource buttonsRight}" Click="ButtonUpdateTester_Click" />
+
+        </Grid>
+        <Grid x:Name="LogoGrid" Grid.Row="1">
+            <Image x:Name="image" Source="images/logo.png" />
+        </Grid>
+
+    </Grid>
+</Window>

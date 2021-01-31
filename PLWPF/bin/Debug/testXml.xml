@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tests>
+  <test>
+    <ID_Trainee>111111111</ID_Trainee>
+    <_dateOfTest>2019-01-28T00:00:00</_dateOfTest>
+    <num_of_test>10000001</num_of_test>
+    <ID_tester>332235325</ID_tester>
+    <_dateAndHourOfTest>2019-01-28T09:00:00</_dateAndHourOfTest>
+    <_typeCarOfTest>פרטי</_typeCarOfTest>
+    <_succeedOrFailed>false</_succeedOrFailed>
+    <_remark></_remark>
+    <_leavingAdress>
+      <street>pisga</street>
+      <houseNumber>45</houseNumber>
+      <city>jerusalem</city>
+    </_leavingAdress>
+    <_endAdress>
+      <street />
+      <houseNumber>0</houseNumber>
+      <city />
+    </_endAdress>
+    <_reportsOfTest>
+      <keepDistance>false</keepDistance>
+      <parkingBrewers>false</parkingBrewers>
+      <lookingAtMirrors>false</lookingAtMirrors>
+      <winkersSignal>false</winkersSignal>
+      <pickUpTheHandbreak>false</pickUpTheHandbreak>
+      <PedestrainCrossing>false</PedestrainCrossing>
+      <lookAtTheSigns>false</lookAtTheSigns>
+      <givingRightOfWay>false</givingRightOfWay>
+    </_reportsOfTest>
+  </test>
+  <test>
+    <ID_Trainee>341004422</ID_Trainee>
+    <_dateOfTest>2019-01-27T00:00:00</_dateOfTest>
+    <num_of_test>10000000</num_of_test>
+    <ID_tester>332235325</ID_tester>
+    <_dateAndHourOfTest>2019-01-27T09:00:00</_dateAndHourOfTest>
+    <_typeCarOfTest>פרטי</_typeCarOfTest>
+    <_succeedOrFailed>true</_succeedOrFailed>
+    <_remark>fsfsdfsdfdsf</_remark>
+    <_leavingAdress>
+      <street>pisga</street>
+      <houseNumber>45</houseNumber>
+      <city>ramat-gan</city>
+    </_leavingAdress>
+    <_endAdress>
+      <street>fgergeerer</street>
+      <houseNumber>56</houseNumber>
+      <city>fdsfsdfsd</city>
+    </_endAdress>
+    <_reportsOfTest>
+      <keepDistance>true</keepDistance>
+      <parkingBrewers>true</parkingBrewers>
+      <lookingAtMirrors>true</lookingAtMirrors>
+      <winkersSignal>true</winkersSignal>
+      <pickUpTheHandbreak>true</pickUpTheHandbreak>
+      <PedestrainCrossing>false</PedestrainCrossing>
+      <lookAtTheSigns>true</lookAtTheSigns>
+      <givingRightOfWay>true</givingRightOfWay>
+    </_reportsOfTest>
+  </test>
+</Tests>

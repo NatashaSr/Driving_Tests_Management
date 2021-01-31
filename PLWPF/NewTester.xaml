@@ -1,0 +1,74 @@
+﻿<Window x:Class="PLWPF.NewTester"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="NewTester" Height="450" Width="518.667">
+    <Window.Resources>
+        <LinearGradientBrush x:Key="backgroundColor">
+            <GradientStop Color="AliceBlue"
+                    Offset="0" />
+            <GradientStop Color="#FFCAE3F9"
+                    Offset="0.5" />
+            <GradientStop Color="AliceBlue"
+                    Offset="1" />
+        </LinearGradientBrush>
+
+        <Style TargetType="TextBlock" x:Key="ourTextBlock" >
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontFamily" Value="Segoe UI Black"/>
+            <Setter Property="Margin" Value="589,10,0,0"/>
+            <Setter Property="Width" Value="194"/>
+            <Setter Property="Height" Value="38"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid x:Name="mainGrid" Background="{StaticResource backgroundColor}" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80*"/>
+            <RowDefinition Height="20*"/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="firstGrid" Grid.Row="0" Background="{StaticResource backgroundColor}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            
+            <TextBlock x:Name="textBlockTitle" Text="יצירת בוחן חדש" Style="{StaticResource ourTextBlock}" FontSize="24" Margin="332,10,0,0" Width="170" />
+            
+            <TextBlock x:Name="textBlockID" Text=":ת.ז" Grid.Row="1" Style="{StaticResource ourTextBlock}"  Width="37" Height="32" Margin="465,10,0,0"/>
+            <TextBox x:Name="textBoxID" Grid.Row="1" Height="30" Width="150" Margin="308,12,54,6" Text="{Binding _ID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true }" MaxLength="9"  />
+            
+            <TextBlock x:Name="textBlockFirstName" Grid.Row="2" Text=":שם פרטי" Style="{StaticResource ourTextBlock}" Margin="417,10,0,0" Width="85" Height="25" />
+            <TextBox x:Name="textBoxFirstName" Grid.Row="2" Height="30" Width="150" Margin="254,10,108,8" Text="{Binding first_name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true }"  />
+            
+            <TextBlock x:Name="textBlockLastName" Grid.Row="3" Text=":שם משפחה" Style="{StaticResource ourTextBlock}" Margin="399,10,0,0" Width="103" Height="33" />
+            <TextBox x:Name="textBoxLastName" Grid.Row="3" Height="30" Width="150" Margin="237,10,125,8"  Text="{Binding last_name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true }" />
+            
+            <TextBlock x:Name="textBlockBirth"  Grid.Row="4" Text=":ת.לידה" Style="{StaticResource ourTextBlock}" Margin="436,14,0,0" Width="66" Height="28" RenderTransformOrigin="0.339,0.5"/>
+            <DatePicker HorizontalAlignment="Left" Margin="266,10,0,0" Grid.Row="4" VerticalAlignment="Top" Height="32" Width="165" FontSize="16" RenderTransformOrigin="0.819,0.375"  SelectedDate="{Binding birth, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"  />
+            
+            <TextBlock x:Name="textBlockGender" Grid.Row="5" Text=":מין" Style="{StaticResource ourTextBlock}" Margin="469,10,0,0" Width="33"/>
+            <ComboBox x:Name="testerGenderComboBox" HorizontalAlignment="Right"  Grid.Row="5" Width="73" Height="25" Margin="0,10,54,13.667" SelectedItem="{Binding gender}" />
+            
+            <TextBlock x:Name="textBlockPassword" Grid.Row="6" Text=":סיסמא חדשה" Style="{StaticResource ourTextBlock}" Margin="385,9.333,0,0" Width="117"/>
+            <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="227,10.333,0,0" Grid.Row="6"  Height="30" Width="150" VerticalAlignment="Top" MaxLength="8"/>
+            
+            <Button x:Name="button" Content="צור" HorizontalAlignment="Left" Margin="24,3.667,0,0" Grid.Row="6" VerticalAlignment="Top" Width="94" Background="{x:Null}" BorderBrush="Blue" BorderThickness="3" FontFamily="Segoe UI Black" FontSize="20" Height="35" Click="Button_Click"/>
+        </Grid>
+        <Grid x:Name="LogoGrid" Grid.Row="1" Background="White" >
+            <Image x:Name="image" Source="images/logo.png" />
+        </Grid>
+    </Grid>
+</Window>

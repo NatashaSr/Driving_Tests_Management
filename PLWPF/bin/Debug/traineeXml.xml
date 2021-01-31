@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trainees>
+  <trainee>
+    <_ID>341004422</_ID>
+    <first_name>נטשה </first_name>
+    <last_name>סילבר</last_name>
+    <birth>1996-06-03T00:00:00</birth>
+    <gender>נקבה</gender>
+    <_age>22</_age>
+    <_phoneNumber>972586500103</_phoneNumber>
+    <_typeCarOfTrainee>פרטי</_typeCarOfTrainee>
+    <_gearboxTypeOfTrainee>אוטומטי</_gearboxTypeOfTrainee>
+    <_drivingSchool>אור ירוק</_drivingSchool>
+    <_nameOfTeacher>נורית גרינברג</_nameOfTeacher>
+    <_lessons>34</_lessons>
+    <_password>22</_password>
+    <_adressOfTrainee>
+      <street>משעול הדקלים</street>
+      <houseNumber>17</houseNumber>
+      <city>ירושלים</city>
+    </_adressOfTrainee>
+  </trainee>
+  <trainee>
+    <_ID>351003327</_ID>
+    <first_name>אביגיל</first_name>
+    <last_name>בנטס</last_name>
+    <birth>1998-07-24T00:00:00</birth>
+    <gender>נקבה</gender>
+    <_age>20</_age>
+    <_phoneNumber>972585400205</_phoneNumber>
+    <_typeCarOfTrainee>דו_גלגלי</_typeCarOfTrainee>
+    <_gearboxTypeOfTrainee>ידני</_gearboxTypeOfTrainee>
+    <_drivingSchool>אור לנהיגה</_drivingSchool>
+    <_nameOfTeacher>ישי ריבו</_nameOfTeacher>
+    <_lessons>56</_lessons>
+    <_password>27</_password>
+    <_adressOfTrainee>
+      <street>הכפיר</street>
+      <houseNumber>82</houseNumber>
+      <city>ירושלים</city>
+    </_adressOfTrainee>
+  </trainee>
+  <trainee>
+    <_ID>351873329</_ID>
+    <first_name>נטליה</first_name>
+    <last_name>לנדו</last_name>
+    <birth>1999-05-27T00:00:00</birth>
+    <gender>נקבה</gender>
+    <_age>19</_age>
+    <_phoneNumber>97255642232</_phoneNumber>
+    <_typeCarOfTrainee>משאית_בינונית</_typeCarOfTrainee>
+    <_gearboxTypeOfTrainee>ידני</_gearboxTypeOfTrainee>
+    <_drivingSchool>אור אדום</_drivingSchool>
+    <_nameOfTeacher>יעקוב רזל</_nameOfTeacher>
+    <_lessons>25</_lessons>
+    <_password>29</_password>
+    <_adressOfTrainee>
+      <street>פיסגה</street>
+      <houseNumber>45</houseNumber>
+      <city>ירושלים</city>
+    </_adressOfTrainee>
+  </trainee>
+  <trainee>
+    <_ID>368343352</_ID>
+    <first_name>נתן</first_name>
+    <last_name>ברגר</last_name>
+    <birth>1990-08-23T00:00:00</birth>
+    <gender>זכר</gender>
+    <_age>28</_age>
+    <_phoneNumber>972587234290</_phoneNumber>
+    <_typeCarOfTrainee>פרטי</_typeCarOfTrainee>
+    <_gearboxTypeOfTrainee>אוטומטי</_gearboxTypeOfTrainee>
+    <_drivingSchool>יש רישיון</_drivingSchool>
+    <_nameOfTeacher>סלומון שטריכר</_nameOfTeacher>
+    <_lessons>55</_lessons>
+    <_password>52</_password>
+    <_adressOfTrainee>
+      <street>גילגל</street>
+      <houseNumber>78</houseNumber>
+      <city>רמת גן</city>
+    </_adressOfTrainee>
+  </trainee>
+  <trainee>
+    <_ID>111111111</_ID>
+    <first_name>הדס</first_name>
+    <last_name>עובדיה</last_name>
+    <birth>1998-02-24T00:00:00</birth>
+    <gender>נקבה</gender>
+    <_age>20</_age>
+    <_phoneNumber>972522232</_phoneNumber>
+    <_typeCarOfTrainee>פרטי</_typeCarOfTrainee>
+    <_gearboxTypeOfTrainee>ידני</_gearboxTypeOfTrainee>
+    <_drivingSchool>יובל</_drivingSchool>
+    <_nameOfTeacher>בנצי</_nameOfTeacher>
+    <_lessons>43</_lessons>
+    <_password>11111111</_password>
+    <_adressOfTrainee>
+      <street>האתרוג</street>
+      <houseNumber>88</houseNumber>
+      <city>אחיעזר</city>
+    </_adressOfTrainee>
+  </trainee>
+</Trainees>

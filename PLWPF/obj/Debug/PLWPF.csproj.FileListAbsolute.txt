@@ -1,0 +1,234 @@
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.dll
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.baml
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.g.cs
+C:\Users\הדסי עובדיה\Downloads\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.baml
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project02_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqGroupingUserControl1.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqGroupingUserControl1.baml
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqToALL.g.cs
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqToALL.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.dll
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BE.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\BL.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\bin\Debug\DS.pdb
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqGroupingUserControl1.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqToALL.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\App.g.cs
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\addNewTest.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LINQ.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqGroupingUserControl1.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\LinqToALL.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTester.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\NewTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTester.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\optionsToTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\updateTest.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTester.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\UpdateTrainee.baml
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Natas\Desktop\FACULDADE-Israel\3 ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project03_3325_0458_dotNet5779\PLWPF\obj\Debug\PLWPF.pdb

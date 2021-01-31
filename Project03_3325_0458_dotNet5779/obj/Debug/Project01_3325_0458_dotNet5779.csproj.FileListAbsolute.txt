@@ -1,0 +1,7 @@
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\Project01_3325_0458_dotNet5779\bin\Debug\Project01_3325_0458_dotNet5779.exe.config
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\Project01_3325_0458_dotNet5779\bin\Debug\Project01_3325_0458_dotNet5779.exe
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\Project01_3325_0458_dotNet5779\bin\Debug\Project01_3325_0458_dotNet5779.pdb
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\Project01_3325_0458_dotNet5779\obj\Debug\Project01_3325_0458_dotNet5779.csprojAssemblyReference.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\Project01_3325_0458_dotNet5779\obj\Debug\Project01_3325_0458_dotNet5779.csproj.CoreCompileInputs.cache
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\Project01_3325_0458_dotNet5779\obj\Debug\Project01_3325_0458_dotNet5779.exe
+C:\Users\Natas\Desktop\FACULDADE\ShanaBeit_SemesterAlef\Mini projeto em Windows C# .NET\PROJECT .NET\Project01_3325_0458_dotNet5779\Project01_3325_0458_dotNet5779\obj\Debug\Project01_3325_0458_dotNet5779.pdb
